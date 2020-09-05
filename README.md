@@ -1,0 +1,2 @@
+I am going to built a movie recommendation system using Content Bases Recommendation. I am using movielens dataset.
+"Movie Lens" dataset comes with different mumbers of movies but I am going to use 100K dataset for this project and try to recommend the best possible similar movie as per the users previous chooice of interest which makes it a content based recommendation means we focus about the similarities in the contents.
